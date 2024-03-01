@@ -285,4 +285,6 @@ function pick(guess) {
       lose();
     }
   }
-}
+};
+
+//Test github
